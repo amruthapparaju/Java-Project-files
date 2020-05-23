@@ -102,6 +102,10 @@ public class Instructor {
 				+ ", instructorDetail=" + instructorDetail + "]";
 	}
 	
+
+
+public myself()
+{
 	
 }
 
