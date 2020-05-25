@@ -10,10 +10,15 @@ import javax.persistence.JoinColumn;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
+
+
 @Entity
 @Table(name="instructor")
 public class Instructor {
 
+
+int s=0;
+String sample=sample;
 	// annotate the class as an entity and map to db table
 	
 	// define the fields
