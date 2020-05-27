@@ -20,7 +20,7 @@ public class Instructor {
 int s=0;
 String sample=sample;
 
-int a=0;
+int a=5;
 	// annotate the class as an entity and map to db table
 	
 	// define the fields
