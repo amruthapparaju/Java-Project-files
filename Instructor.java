@@ -11,7 +11,7 @@ import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
 
-@Controller
+
 @Entity
 @Table(name="instructor")
 public class Instructor {
